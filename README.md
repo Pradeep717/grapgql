@@ -68,7 +68,7 @@ query{
 
 ## Note
 
-```
+```graphql
 // Create GraphQL server
 app.use(
   '/graphql',
@@ -86,7 +86,7 @@ app.listen(3000, () => {
 
 ```
 
-```
+```graphql
 // created events and users => query 
  type RootQuery {
             events: [Event!]!
@@ -109,7 +109,7 @@ type RootMutation {
 
 ```
 
-```
+```graphql
 //tpyes and its input 
 
 type Event {
@@ -142,7 +142,7 @@ type Event {
 
 ```
 
-```
+```graphql
 // events
 // users
 // createEvent
