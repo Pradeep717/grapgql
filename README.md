@@ -248,4 +248,4 @@ rootValue: {
 
 ![](https://res.cloudinary.com/dj76d2css/image/upload/v1700546871/69809f49-3a37-4933-b14c-cd2ef3b13b1d_zekmyf.jpg)
 
-![](https://res.cloudinary.com/dj76d2css/image/upload/v1700547154/Code_bmHCfm7S0j_fleegr.png)
+![](https://res.cloudinary.com/dj76d2css/image/upload/v1700548228/Code_SG2PPuOldm_ttdsij.png)
